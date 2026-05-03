@@ -1,3 +1,4 @@
+% This file contains our global constants which we have used for our simulation.
 classdef config
     % This class stores global constants for the array simulation
     properties (Constant)
